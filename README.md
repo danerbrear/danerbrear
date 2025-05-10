@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 💻 Employed at Credera as an Architect
 - 🌱 I'm currently learning TensorFlow
-- 🔭 I'm currently working on Aspen - Art Marketplace
+- 🔭 I'm currently working on Aspen - Art Marketplace [(More here)](https://github.com/danerbrear/aspen-public)
 - 💬 Ask me about the biggest production incident I've fixed
 
 ## 🛠️ Skills
@@ -28,11 +28,6 @@
 
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dane-brear-101251111/)
 
-## 🎯 Current Focus
-- [Current learning goals]
-- [Project priorities]
-- [Professional development targets]
-
 ## 🏆 Achievements
 #### Certifications
 - AWS Solutions Architect
@@ -42,8 +37,8 @@
 - 2020 Hack Quarantine Hackathon Winner
 
 #### Notable Projects
-- Aspen Art Marketplace
-- Covid Risk Indicator
+- [Aspen Art Marketplace](https://github.com/danerbrear/aspen-public)
+- [Covid Risk Indicator](https://github.com/danerbrear/Community-COVID-Risk-Indicator)
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->

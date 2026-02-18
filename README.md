@@ -3,7 +3,9 @@
 ## 🚀 About Me
 - 💻 Employed at Credera as an Architect
 - 🌱 I'm currently learning TensorFlow
-- 🔭 I'm currently working on Aspen - Art Marketplace [(More here)](https://github.com/danerbrear/aspen-public)
+- 🔭 I'm currently working on Aspen
+    - Options Trading Engine [(More here)](https://github.com/danerbrear/algo-trading-engine)
+    - Art Marketplace [(More here)](https://github.com/danerbrear/aspen-public)
 - 💬 Ask me about the biggest production incident I've fixed
 
 ## 🛠️ Skills
